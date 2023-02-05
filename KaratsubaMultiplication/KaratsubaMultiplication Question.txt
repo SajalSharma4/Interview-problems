@@ -1,0 +1,1 @@
+Given two n-digit long integers a and b.Find a x b using constant time operation.
