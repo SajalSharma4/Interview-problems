@@ -1,0 +1,1 @@
+Given a string that has set of words and hyphens, write a program to move all hyphens to front of string, by traversing the string only once.
