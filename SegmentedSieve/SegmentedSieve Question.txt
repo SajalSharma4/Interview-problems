@@ -1,3 +1,3 @@
-Given a number n, print all primes smaller than n. 
+Given two numbers n and m, print all primes between  them. 
 
-For example, if the given number is 10, output 2, 3, 5, 7.
+For example, if the given numbers are 10 and 20, output is 11, 13, 17, 19.
